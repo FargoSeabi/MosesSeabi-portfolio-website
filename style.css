@@ -285,7 +285,9 @@ section {
 }
 
 .about-pic {
-  border-radius: 4rem;
+  border-radius: 0.1rem;
+  border: 1px;
+  box-shadow: 0 10px 25px rgba(8, 114, 228, 0.892);
 }
 
 .arrow {
@@ -526,8 +528,8 @@ footer p {
 
 .cyber-particles span {
   position: absolute;
-  width: 4px;
-  height: 4px;
+  width: 6px;
+  height: 6px;
   background: rgb(14, 15, 15);
   border-radius: 50%;
   opacity: 0.6;
