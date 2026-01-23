@@ -19,14 +19,7 @@ My goal is to leverage my skills in technology and leadership to deliver impactf
 - Showcase of projects and experience  
 - Contact information for collaboration or inquiries  
 
-## Technologies Used
 
-- HTML  
-- CSS  
-- JavaScript  
-- (Optional) Any frameworks you include, e.g., React or Tailwind CSS  
-
-## Installation
 
 To run this project locally:  
 
